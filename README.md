@@ -16,8 +16,6 @@ Database: MongoDB (via Mongoose)
 Environment Management: dotenv
 Version Control: Git & GitHub
 📁 Project Structure
-
-
 resume-backend/
 ├── src/
 │   ├── config/         # Database and environment configuration
@@ -28,7 +26,7 @@ resume-backend/
 ├── .env.example        # Environment variable template
 ├── package.json
 └── README.md
-⚙️ Installation & Setup
+Installation & Setup
 Clone the repository
 bash
 
